@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 
 <h3>Good to see you here.</h3>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Srashi25&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 
-[![Sadia's GitHub stats](https://github-readme-stats.vercel.app/api?username=srashi25&show_icons=true)](https://github.com/srashi25/github-readme-stats)
+[![Sadia's GitHub stats](https://github-readme-stats.vercel.app/api?username=srashi25&show_icons=true)]
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
